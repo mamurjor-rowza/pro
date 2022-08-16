@@ -1,0 +1,5 @@
+git clone link
+git checkout -b hadijaman
+git add . 
+git commit -a -m "message"
+git push origin hadijaman
